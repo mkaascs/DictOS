@@ -1,7 +1,7 @@
 TEXT_CL equ 2     
 TEXT_AL equ 10     
 DATA_CL equ 12    
-DATA_AL equ 13    
+DATA_AL equ 31    
 
 use16
 org 0x7C00
